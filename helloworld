@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name ="viewport" content="width=devise-width, initial-scale=1.0">
+    <title>hello world</title>
+</head>
+<body>
+    <h1>Hello world</h1>
+    <ol>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+      </ol> 
+      <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+      </ul> 
+    <img src="vslogo.png">
+</body>
+</html>
